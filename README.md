@@ -8,7 +8,7 @@ This token was created with solidity. I used all I learned in the course on meta
 
 To Run this program, you need to use remix - https://remix.ethereum.org/
 
-Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy and paste the following code into the file:
+Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., myToken.sol). Copy and paste the following code into the file:
 
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.26;
